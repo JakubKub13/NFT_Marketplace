@@ -5,10 +5,3 @@
     4. updateListing: Update Price
     5. withdrawProceeds: Withdraw payment for my bought NFTs
 
-# Minimalistic_NFT_Marketplace
-# Minimalistic_NFT_Marketplace
-# Minimalistic_NFT_Marketplace
-# Minimalistic_NFT_Marketplace
-# NFT-Marketplace-Backend
-# NFT-Marketplace-Backend
-# NFT_Marketplace
